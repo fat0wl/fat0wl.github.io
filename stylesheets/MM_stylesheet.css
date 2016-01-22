@@ -1,0 +1,46 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 16:09:51 Dec 22, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 3:51:45 Jan 22, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body {background-image:url('/images/mileytile.jpg'); background-color:white; color: black; font-family: courier,sans}
+
+#mm_logo_container {float:left; width:800px }
+#mm_logo {float:right}
+
+#nav {float:left; width: 180px; font-size:22px}
+
+#container {width:820px; height:100%; margin: 100px; padding:10px; background-color:white; border-style:outset; float:left }
+
+#top {height:127px; width:950px; float:left}
+
+#top_inner {height:125px; width:800px; background-color:#0F0F0F; background-image:url('/images/MM_banner.jpg'); float:right}
+
+#leftnav {height:400px; width:150px; float:left; background-image:url('/images/I_RIN_navbar.gif'); background-repeat:no-repeat;}
+
+#main_content {width:780px; min-height:400px; background-color: #dcdcdc; float:right; padding:10px; text-align:left;
+filter:alpha(opacity=90);
+-moz-opacity:.90;
+opacity:.90;}
+
+#portfolio_content {width:780px; min-height:400px; background-color: #dcdcdc; float:right; padding:10px; text-align:left; font-family: arial,sans; font-size: 90%}
+
+.rec_description {font-size:small; background-color:#DCDCDC; width:400px; padding:3px; margin-left:10px; margin-top: 5px}
+
+.live { background-color:pink; padding: 5px }
+
+a { color: #336633; text-decoration: none }
+
+a:visited { color: black; text-decoration:none }
+
+a:hover { color: #336633; text-decoration: underline; }
+
+.indent {text-indent: 20px}
